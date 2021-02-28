@@ -103,7 +103,7 @@ class Bord extends Component {
 
                 <div className="about">
                     The object of this game is to close all the lights.
-                <div class="how-to">
+                <div className="how-to">
                         <h3>How to play:</h3>
                         <p>Click on any of them to turn it and the four direct neighboring lights off or on.</p>
                         <p><strong>Win by closing all the lights.</strong></p>
